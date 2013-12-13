@@ -6,3 +6,4 @@
 !img/
 !img/*
 !*.md
+!Gemfile*
