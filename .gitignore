@@ -1,0 +1,7 @@
+# We're going to have an awful lot of crap
+*
+!*.git*
+!*.tex
+!img/
+!img/*
+!*.md
