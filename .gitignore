@@ -2,6 +2,7 @@
 *
 !*.git*
 !*.tex
+!Rakefile
 !img/
 !img/*
 !*.md
